@@ -1,3 +1,5 @@
+# CODECLAUSE_NEWS_APP
+
 Project :News Portal. //
 
 IDE- VS Code.
